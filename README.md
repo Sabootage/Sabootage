@@ -29,3 +29,9 @@
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png"  title="Dbeaver" alt="Dbeaver" width="40" height="40"/>&nbsp;
   <img src="https://community.chocolatey.org/content/packageimages/jmeter.5.5.svg" title="Jmeter" alt="Jmeter" width="40" height="40"/>&nbsp;
 </div>
+  
+  ### :fire: My Stats :
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sabootage&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
